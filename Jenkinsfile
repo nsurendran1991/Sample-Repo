@@ -7,7 +7,7 @@ pipeline {
              }
              post {
                  always {
-                     jiraSendBuildInfo site: 'nsurendran1991.atlassian.net'
+                     jiraSendBuildInfo site: 'nsurendran1991.atlassian.net', branch: 'NJ-2-Jenkins-Operations'
                  }
              }
          }
