@@ -1,4 +1,4 @@
 # Sample-Repo
 
 This is a sample repo  for testing.Git-Hib-for-jira integration. auto-merge check.
-Editing something
+Editing something.  
